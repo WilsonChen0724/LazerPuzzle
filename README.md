@@ -1,3 +1,5 @@
+![Version](https://img.shields.io/badge/Version-v1.0.0-green)
+![Language](https://img.shields.io/badge/Language-C++-blue)
 # LazerPuzzle
 ## Introduction
   
