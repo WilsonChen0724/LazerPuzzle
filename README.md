@@ -3,7 +3,7 @@
 # LazerPuzzle
 ## Introduction
   
-A small game created by using SDL library and in C++.  
+A small game created by using SDL library and in C++, the codes are written on DEV C++.  
 Interface in English but the guidance in the game is in Traditional Chinese.
   
 ## Files
